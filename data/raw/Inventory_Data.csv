@@ -1,0 +1,16 @@
+Product,Region,Warehouse_ID,Opening_Stock,Units_Produced,Units_Sold,Closing_Stock
+Coca-Cola,Upper Bavaria,WH-001,11371,12567,21016,2922
+Club-Mate,Upper Bavaria,WH-002,7403,22979,16328,14054
+Club-Mate,Swabia,WH-003,8620,10561,12745,6436
+Club-Mate,Upper Bavaria,WH-004,8425,12257,15148,5534
+Club-Mate,Upper Palatinate,WH-005,17441,11785,20786,8440
+Coca-Cola,Lower Bavaria,WH-006,7363,23903,22757,8509
+Pepsi,Upper Palatinate,WH-007,5337,10264,10642,4959
+Coca-Cola,Upper Palatinate,WH-008,5714,13653,8906,10461
+Club-Mate,Upper Franconia,WH-009,9429,23549,22411,10567
+Club-Mate,Lower Bavaria,WH-010,17940,22936,9700,31176
+Pepsi,Upper Bavaria,WH-011,6475,26566,12970,20071
+Club-Mate,Upper Franconia,WH-012,16201,25488,23553,18136
+Pepsi,Upper Franconia,WH-013,12829,10158,17644,5343
+Coca-Cola,Lower Bavaria,WH-014,5103,28243,17670,15676
+Pepsi,Lower Franconia,WH-015,16746,20151,22408,14489

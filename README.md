@@ -1,40 +1,45 @@
-# Beverage-Market-Analysis-Club-Mate-vs-Coca-Cola-vs-Pepsi-random-data-
-An end-to-end data analytics project on synthetic sales data of Club-Mate, Coca-Cola, and Pepsi.   Covers data cleaning, KPI analysis, time-series trends, market share, cost breakdown, forecasting, and Power BI dashboards.
-club-mate/
+This project is a data analytics case study built on a simulated dataset of beverage sales in Germany.
+The objective is to analyze Club-Mate’s market performance compared to Coca-Cola and Pepsi across:
+
+📊 Revenue, Profit & Market Share
+
+📈 Time-series sales & profitability
+
+🌍 Regional & channel performance
+
+💰 Cost efficiency
+
+🔮 Forecasting next-year sales
+
+The project combines Python, Power BI, and storytelling to create an end-to-end analytics portfolio piece.
+
+⚠️ Note: All data in this project is synthetic/fake, created for learning and portfolio purposes only.
+club-mate-analysis/
 ├── data/
-│   ├── raw/
-│   │   ├── Annual_Summary.csv
-│   │   ├── Costing_Data.csv
-│   │   ├── Inventory_Data.csv
-│   │   └── Sales_Data.csv
-│   ├── processed/
-│   │   └── club_mate_clean.csv
+│   ├── raw/                # Original CSV/Excel files
+│   ├── processed/          # Cleaned dataset (ready for analysis)
 │
-├── notebooks/
-│   ├── 01_data_cleaning.ipynb
-│   ├── forecasts.ipynb
-│   └── load_dataset.ipynb
+├── notebooks/              # Jupyter notebooks (data cleaning, EDA, forecasting)
 │
-├── reports/
-│   └── clubmate_summary.csv
+├── reports/                # CSV summaries / exports
 │
-├── visuals/
+├── visuals/                # PNGs of charts (grouped by category)
+│   ├── KPI/
+│   ├── Time Series/
+│   ├── Regional Performance/
 │   ├── Channel Performance/
 │   ├── Cost Breakdown/
-│   ├── Forecasting/
-│   ├── KPI/
-│   ├── Regional Performance/
-│   └── Time Series/
+│   └── Forecasting/
 │
-├── dashboards/
+├── dashboards/             # Power BI dashboards
 │   ├── executive_summary_dashboard.pbix
 │   ├── sales_market_share_dashboard.pbix
 │   ├── regional_channel_dashboard.pbix
-│   └── forecasting_dashboard.pbix   (optional)
+│   └── forecasting_dashboard.pbix
 │
-├── docs/
+├── docs/                   # Reports & presentations
 │   ├── project_presentation.pptx
 │   ├── project_report.pdf
 │   └── methodology.md
 │
-└── README.md   <-- (this file)
+└── README.md               # Project overview (this file)
